@@ -8,6 +8,20 @@ I was born in 1999, I am a student at Posts and Telecommunications Institute of 
 
 ***You can see all my projects in here [`my projects`](https://hatienl0i2612.herokuapp.com/my_projects/)***
 
+### ***📕 Latest Projects***
+
+- ***[Tool add signature for video](https://hatienl0i2612.herokuapp.com/my_projects/dongdauvideo/)***
+
+- ***[Tool crawl data from website zingmp3.vn](https://hatienl0i2612.herokuapp.com/my_projects/zingmp3)***
+
+- ***[Bot chat timetable of QLDT PTIT](https://hatienl0i2612.herokuapp.com/my_projects/qldt_ptit)***
+
+- ***[Tool crawl data from website Mixcloud](https://hatienl0i2612.herokuapp.com/my_projects/mixcloud)***
+
+- ***[Tool filt spam comment facebook](https://hatienl0i2612.herokuapp.com/my_projects/filt_spam_fb)***
+
+- ***[GUI of Sudoku solver use Pyqt5 and Backtracking algorithm](https://hatienl0i2612.herokuapp.com/my_projects/sudoku_solver)***
+
 ### ***&#x1f4c8; My GitHub Stats***
 
 <a href="https://github.com/hatienl0i261299/hatienl0i261299">
