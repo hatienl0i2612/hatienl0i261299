@@ -11,7 +11,7 @@ I was born in 1999, I am a student at Posts and Telecommunications Institute of 
 ### ***&#x1f4c8; My GitHub Stats***
 
 <a href="https://github.com/hatienl0i261299/hatienl0i261299">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hatienl0i261299&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hatienl0i261299&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/hatienl0i261299/hatienl0i261299">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hatienl0i261299&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ha Tien Loi's GitHub Stats" />
