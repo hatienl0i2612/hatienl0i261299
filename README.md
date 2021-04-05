@@ -31,8 +31,8 @@ I was born in 1999, I am a student at Posts and Telecommunications Institute of 
 </a>
 
 <a href="https://github.com/hatienl0i261299/hatienl0i261299">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hatienl0i261299&repo=zingmp3&&title_color=ffffff&text_color=c9cacc&bg_color=1d1f21" alt="Ha Tien Loi's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hatienl0i261299&repo=zingmp3&&title_color=ffffff&text_color=c9cacc&bg_color=1d1f21" alt="" />
 </a>
 <a href="https://github.com/hatienl0i261299/hatienl0i261299">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hatienl0i261299&repo=mixcloud&&title_color=ffffff&text_color=c9cacc&bg_color=1d1f21" alt="Ha Tien Loi's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hatienl0i261299&repo=cmdown&&title_color=ffffff&text_color=c9cacc&bg_color=1d1f21" alt="" />
 </a>
