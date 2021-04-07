@@ -24,22 +24,22 @@ I was born in 1999, I am a student at Posts and Telecommunications Institute of 
 ### ***&#x1f4c8; My GitHub Stats***
 
 <a href="https://github.com/hatienl0i261299/hatienl0i261299">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hatienl0i261299&hide=css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hatienl0i261299&hide=css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=buefy" />
 </a>
 <a href="https://github.com/hatienl0i261299/hatienl0i261299">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hatienl0i261299&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ha Tien Loi's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hatienl0i261299&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=buefy" alt="Ha Tien Loi's GitHub Stats" />
 </a>
 
 <a href="https://github.com/hatienl0i261299/zingmp3">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hatienl0i261299&repo=zingmp3&&title_color=ffffff&text_color=c9cacc&bg_color=1d1f21" alt="" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hatienl0i261299&repo=zingmp3&&title_color=ffffff&text_color=c9cacc&bg_color=1d1f21&theme=buefy" alt="" />
 </a>
 <a href="https://github.com/hatienl0i261299/cmdown">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hatienl0i261299&repo=cmdown&&title_color=ffffff&text_color=c9cacc&bg_color=1d1f21" alt="" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hatienl0i261299&repo=cmdown&&title_color=ffffff&text_color=c9cacc&bg_color=1d1f21&theme=buefy" alt="" />
 </a>
 
 <a href="https://github.com/hatienl0i261299/DongDauVideo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hatienl0i261299&repo=DongDauVideo&&title_color=ffffff&text_color=c9cacc&bg_color=1d1f21" alt="" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hatienl0i261299&repo=DongDauVideo&&title_color=ffffff&text_color=c9cacc&bg_color=1d1f21&theme=buefy" alt="" />
 </a>
 <a href="https://github.com/hatienl0i261299/Solve_Sudoku">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hatienl0i261299&repo=Solve_Sudoku&&title_color=ffffff&text_color=c9cacc&bg_color=1d1f21" alt="" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hatienl0i261299&repo=Solve_Sudoku&&title_color=ffffff&text_color=c9cacc&bg_color=1d1f21&theme=buefy" alt="" />
 </a>
