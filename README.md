@@ -24,24 +24,24 @@ I was born in 1999, I am a student at Posts and Telecommunications Institute of 
 ### ***&#x1f4c8; My GitHub Stats***
 
 <a href="https://github.com/hatienl0i261299/hatienl0i261299">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hatienl0i261299&hide=css&theme=blueberry " />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hatienl0i261299&hide=css " />
 </a>
 <a href="https://github.com/hatienl0i261299/hatienl0i261299">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hatienl0i261299&show_icons=true&line_height=27&count_private=true&theme=blueberry " alt="Ha Tien Loi's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hatienl0i261299&show_icons=true&line_height=27&count_private=true " alt="Ha Tien Loi's GitHub Stats" />
 </a>
 
 
 <a href="https://github.com/hatienl0i261299/zingmp3">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hatienl0i261299&repo=zingmp3&theme=blueberry " alt="" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hatienl0i261299&repo=zingmp3 " alt="" />
 </a>
 <a href="https://github.com/hatienl0i261299/cmdown">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hatienl0i261299&repo=cmdown&theme=blueberry " alt="" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hatienl0i261299&repo=cmdown " alt="" />
 </a>
 
 
 <a href="https://github.com/hatienl0i261299/DongDauVideo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hatienl0i261299&repo=DongDauVideo&theme=blueberry " alt="" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hatienl0i261299&repo=DongDauVideo " alt="" />
 </a>
 <a href="https://github.com/hatienl0i261299/Solve_Sudoku">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hatienl0i261299&repo=Solve_Sudoku&theme=blueberry " alt="" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hatienl0i261299&repo=Solve_Sudoku " alt="" />
 </a>
